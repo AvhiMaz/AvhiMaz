@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AvhiMaz
-- 👀 I’m interested in photography and recently started with coding
+- 👀 I’m interested in Programming and new technologies
 - 🌱 I’m currently learning 
 - 📫 How to reach me https://linktr.ee/AvhiMazumder
 
