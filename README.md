@@ -1,5 +1,5 @@
 ![logo](https://github.com/AvhiMaz/AvhiMaz/blob/main/758a.gif)
-<h1 align="center">Hi 👋, I'm Avhi Mazumder</h1>
+<h1 align="center">Hey there! 👋, I'm Avhi Mazumder</h1>
 <h3 align="center">An upcoming developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F78.media.tumblr.com%2F95f02d55724b631531d0b32dbd001297%2Ftumblr_p177vracYv1wh4uq0o1_1280.gif&f=1&nofb=1&ipt=9012ea93419e791383d1f840b406d5123c41d0cd46b50fc3bb774c8c3f9bf813&ipo=images">
 
