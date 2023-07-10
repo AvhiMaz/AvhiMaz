@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/avhimajumder20" target="blank"><img src="https://img.shields.io/twitter/follow/avhimajumder20?logo=twitter&style=for-the-badge" alt="avhimajumder20" /></a> </p>
 
-- 🌱 I’m currently learning **WebD, Cybersecurity, Linux,**
+- 🌱 I’m currently learning **WebD, Cybersecurity, Linux**
 
 - 💬 Ask me about **Cpp**
 
