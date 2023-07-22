@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F78.media.tumblr.com%2F95f02d55724b631531d0b32dbd001297%2Ftumblr_p177vracYv1wh4uq0o1_1280.gif&f=1&nofb=1&ipt=9012ea93419e791383d1f840b406d5123c41d0cd46b50fc3bb774c8c3f9bf813&ipo=images">
 
 
-<p align="left"> <a href="https://twitter.com/Avhi_Maz" target="blank"><img src="https://img.shields.io/twitter/follow/avhimajumder20?logo=twitter&style=for-the-badge" alt="Avhi_Maz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Avhi_Maz" target="blank"><img src="https://img.shields.io/twitter/follow/Avhi_Maz?logo=twitter&style=for-the-badge" alt="Avhi_Maz" /></a> </p>
 
 - 🌱 I’m currently learning **WebD, Cybersecurity, Linux**
 
