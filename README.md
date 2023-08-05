@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Cpp**
 
-- 📫 How to reach me **avhimazumder5@outllok.com**
+- 📫 How to reach me **avhimazumder5@outlook.com**
 
 - ⚡ Fun fact **I know a fun fact about you, but I can’t tell you**
 
