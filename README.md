@@ -70,7 +70,7 @@
 ###
 
 <div align="left">
-  <a href="https://x.com/Avhi_Maz" target="_blank">
+  <a href="https://x.com/avhimazumder" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="https://instagram.com/avhi.ai" target="_blank">
