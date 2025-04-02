@@ -1,5 +1,3 @@
-<img align="center" src="https://pbs.twimg.com/profile_banners/882034338703040512/1738577983/1500x500" alt="avhidotsol" width="1080" /> 
-
 ```zsh
 > neofetch
 ```
