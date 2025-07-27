@@ -6,41 +6,67 @@ avhimaz@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.9
-Uptime: 21 years
+Uptime: 22 years
 Terminal: alacritty
 Package Manager: Pacman, Yay
 Processor: AMD Ryzen 5 5500U with Radeon Grap
 RAM: 15309Mib
 Location: Earth
-Languages: TypeScript, Rust,  Anchor, Nextjs
+Languages: TypeScript, Rust,  Anchor, Pinocchio, Nextjs
 Hobbies: Sketching, Travelling
-Twitter: @avhidotsol
+X (Twitter): @avhidotsol
 ```
 
+<div align="center">
+  <h1 style="font-style: italic">
+   PROOF OF WORKS
+  </h1>
+</div>
 
-### Languages
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+## Rust and pinocchio
+
+| Proof of work                                                                  | Description                                                                                                                                       | Technologies                                  |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [cli-type](https://github.com/AvhiMaz/cli-type)               |    A blazing fast, minimal, and fun terminal typing speed test, built in Rust Measures WPM, and gives you real-time feedback                                                                               | Rust, Cargo                            |
+| [http-server](https://github.com/AvhiMaz/http-server)        | A high-performance HTTP API server built with Axum for interacting with the Solana blockchain. This server provides RESTful endpoints to query blockchain data including account information, balances, transactions, and network status.                       | Rust      |
+| [blueshift-programs](https://github.com/AvhiMaz/blueshift-programs)                                |  All programs of blueshift course (More will be added accordindly)                                                                                               | Rust, Anchor, Pinocchio             |
+| [transfer-cpp](https://github.com/AvhiMaz/transfer-cpp)                     |  a simple tranfer of sol  | Cpp, Rust |
+| [magicblock-delegation-program-pinocchio](https://github.com/AvhiMaz/magicblock-delegation-program-pinocchio) | magicblock delegation program in pinocchio                                                     | Magicblock, Pinocchio, Rust                         |
+| [fundraiser](https://github.com/AvhiMaz/fundraiser)             | Fundraiser program in anchor and pinocchio                           | Anchor, Rust, Pinocchio   |
+| [ephemeral-rollup-counter-program](https://github.com/AvhiMaz/ephemeral-rollup-counter-program)             | Magicblock ephemeral rollup counter program                           | Rust   |
+| [escrow](https://github.com/AvhiMaz/escrow)             | escrow program in anchor and pinocchio                           | Anchor, Rust, Pinocchio   |
+| [vault](https://github.com/AvhiMaz/vault)             | vault program in anchor and pinocchio                           | Anchor, Rust, Pinocchio   |
+| [cpi-transfer](https://github.com/AvhiMaz/cpi-transfer)             | Simple transfer program in anchor and pinocchio                           | Anchor, Rust, Pinocchio   |
+| [cpi-transfer](https://github.com/solana-turbin3/q1_25_Builder_AvhiMaz/)             | solanaturbine cohort                           | Anchor, Rust   |
+| [voting-dapp](https://github.com/AvhiMaz/voting-dapp)             | voting program in anchor                            | Anchor, Rust |
+| [favorites](https://github.com/AvhiMaz/favorites)             | favorites program in anchor                           | Anchor, Rust   |
+| [journal](https://github.com/AvhiMaz/journal)             | journal program in anchor                           | Anchor, Rust   |
+| [anchor-counter-app](https://github.com/AvhiMaz/anchor-counter-app)             | counter program in anchor                           | Anchor, Rust   |
 
 
-### Web3  
-![Rust Tests](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Anchor](https://img.shields.io/badge/Anchor-%23111111.svg?style=for-the-badge&logo=solana&logoColor=white)  ![Solana Web3.js](https://img.shields.io/badge/Solana%20Web3.js-%23000000.svg?style=for-the-badge&logo=solana&logoColor=white)  ![Solana CLI](https://img.shields.io/badge/Solana%20CLI-%23000000.svg?style=for-the-badge&logo=solana&logoColor=white)  ![Anchor-Bankrun](https://img.shields.io/badge/Anchor%20Bankrun-%23111111.svg?style=for-the-badge&logo=solana&logoColor=white)  
+## Assembly
 
-### Backend  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
-
-### Testing
-![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)  ![Chai](https://img.shields.io/badge/Chai-%23A30701.svg?style=for-the-badge&logo=chai&logoColor=white)  ![Mocha](https://img.shields.io/badge/Mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white)  
-
-### Frontend  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+| Proof of work                                                         | Description                                                                     | Technologies              |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------- |
+| [hello-solana](https://github.com/AvhiMaz/hello-solana-asm) | hello solana asm program  | Assembly, Solana |
 
 
-### DevOps  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)  
+## Fullstack
+
+| Proof of work                                                                              | Description                                                                                                                             | Technologies                        |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| [nestfolio](https://github.com/4rjunc/nestfolio)                        | Ai powered DAO governance | Anchor, Rust, Next.js        |
+| [blink-arena](https://github.com/AvhiMaz/blink-arena)                        | Enable users to host or participate in gaming tournaments. | Next.js, solana blinks, mongoDB        |
+| [viralxpost](https://github.com/viralxpost/viralxpost-web)                        | AI tool help you create engaging content that breaks through the noise and gets you seen by the right people.  | MERN, Gemini        |
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvhiMaz/AvhiMaz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvhiMaz/AvhiMaz/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AvhiMaz/AvhiMaz/output/github-snake.svg" />
-</picture>
+
+## Opensource and miscellaneous
+
+| Proof of work                                                                                | Description                                                                                                                             | Technologies                        |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| [argo-cd](https://github.com/argoproj/argo-cd/pull/15059)                        | pull request was for better error messages | Go        |
+| [rucio](https://github.com/rucio/webui/pull/519#issuecomment-3012721776)                        | pull request was for upgrade project to Next.js 15 | Next.js        |
+| [resume](https://github.com/AvhiMaz/resume)                        | Resume | Tex        |
+| [arch-config](https://github.com/AvhiMaz/config)                        | my Arch linux Config | lua, bash        |
+
