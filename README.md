@@ -37,7 +37,7 @@ X (Twitter): @avhidotsol
 | [escrow](https://github.com/AvhiMaz/escrow)             | escrow program in anchor and pinocchio                           | Anchor, Rust, Pinocchio   |
 | [vault](https://github.com/AvhiMaz/vault)             | vault program in anchor and pinocchio                           | Anchor, Rust, Pinocchio   |
 | [cpi-transfer](https://github.com/AvhiMaz/cpi-transfer)             | Simple transfer program in anchor and pinocchio                           | Anchor, Rust, Pinocchio   |
-| [cpi-transfer](https://github.com/solana-turbin3/q1_25_Builder_AvhiMaz/)             | solanaturbine cohort                           | Anchor, Rust   |
+| [solanaturbine](https://github.com/solana-turbin3/q1_25_Builder_AvhiMaz/)             | solanaturbine cohort                           | Anchor, Rust   |
 | [voting-dapp](https://github.com/AvhiMaz/voting-dapp)             | voting program in anchor                            | Anchor, Rust |
 | [favorites](https://github.com/AvhiMaz/favorites)             | favorites program in anchor                           | Anchor, Rust   |
 | [journal](https://github.com/AvhiMaz/journal)             | journal program in anchor                           | Anchor, Rust   |
