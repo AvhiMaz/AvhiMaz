@@ -4,15 +4,15 @@
 ```csharp
 avhimaz@github
 -------------------------
-OS: Arch Linux x86_64
+OS: macOS 15.7.1 (Sequoia)
 Shell: zsh 5.9
 Uptime: 22 years
-Terminal: alacritty
-Package Manager: Pacman, Yay
-Processor: AMD Ryzen 5 5500U with Radeon Grap
-RAM: 15309Mib
+Terminal: Apple Terminal
+Processor: Apple M4
+GPU: Apple M4
+Memory: 16384MiB
 Location: Earth
-Languages: TypeScript, Rust,  Anchor, Pinocchio, Nextjs
+Languages: TypeScript, Rust, Anchor, Pinocchio, Next.js
 Hobbies: Sketching, Travelling
 X (Twitter): @avhidotsol
 ```
