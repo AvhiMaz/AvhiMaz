@@ -7,7 +7,7 @@ avhimaz@github
 OS: macOS 15.7.1 (Sequoia)
 Shell: zsh 5.9
 Uptime: 22 years
-Terminal: Apple Terminal
+Terminal: Zsh
 Processor: Apple M4
 GPU: Apple M4
 Memory: 16384MiB
